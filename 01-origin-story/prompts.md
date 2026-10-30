@@ -24,6 +24,10 @@ prompt library built from your own questions.
 
 ### 1.
 
+With the data given where should I as a new PM start with/? What should be my first steps and actions in detail
+
 ### 2.
+
+Can you give me more details on the product. What it is and how it work? Who are the customers and what should I be looking for a a new PM
 
 ### 3.
