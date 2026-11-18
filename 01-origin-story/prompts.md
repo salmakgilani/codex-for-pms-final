@@ -31,3 +31,5 @@ With the data given where should I as a new PM start with/? What should be my fi
 Can you give me more details on the product. What it is and how it work? Who are the customers and what should I be looking for a a new PM
 
 ### 3.
+
+What should I do week-wise amd month-wise to know more about rook, its recent release and my action plan.
