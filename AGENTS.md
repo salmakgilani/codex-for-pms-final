@@ -65,3 +65,9 @@ certification. Everything in it is a fictional teaching scenario.
 - Measure both ping outcomes and complete callout journeys: eventual assignment, offers needed and elapsed time to assignment where data permits. Lower ping acceptance alone does not establish worse assignment outcomes.
 - Available callout/ping data spans late June to early September 2026; it cannot establish recurring August seasonality without older reporting. No operational analysis was performed this session.
 - Open customer questions: who pays, signs and renews each subscription; how responder and handler needs differ; whether filter persistence causes workflow harm rather than merely cosmetic complaints.
+
+- Reviewed all four September handler interviews and all 147 support tickets. The ticket comparison uses June 29–August 11 (40) and August 13–September 7 (107), with none filed August 12.
+- After 4.2, 30 tickets reported fewer or no offers and 15 reported offers moving on before responders could answer, versus zero in either category before. Counts include repeat reports, and quiet-ping tickets name four responders.
+- The interviews corroborate both symptoms. Kip alone described one responder overloaded while another was quiet. Three interviewees wanted clearer alerts, while two tickets asked for more distinctive console sounds.
+- Filter feedback shifted from asking for persistence to reporting silent resets and other problems using saved filters. Ambrose reported watching the wrong view after a reset.
+- Trace reported cases with Ravi and Wen to compare who was eligible and got the first offer, when offers expired, and whether assignment rates or time to assignment changed. The effect of either 4.2 routing change remains open.

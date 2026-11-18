@@ -16,6 +16,24 @@ prompt library built from your own questions.
 
 ### 1.
 
+***Based on the interviews, the trouble with 4.2 is \_\_\_.***  
+
 ### 2.
 
+what should I infer from the above in a few sentences?
+
 ### 3.
+
+What should be my next actions?
+
+### 4.
+
+What should we infer from the comparision? Has the point of view and action step changed?
+
+### 5.
+
+Is my previous conclusion still a valid one -"Based on the interviews, the trouble with 4.2 is **responders seem to have less time to accept callouts, while some experience unexplained quiet stretches and others are overloaded—and handlers lack clear alerts and explanations to understand what’s happening.** The interviews suggest these problems; they don’t prove 4.2 caused them  
+
+### 6.
+
+What could have gone wrong if I had concluded based on one of the source of feedback?
