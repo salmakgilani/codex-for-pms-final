@@ -17,6 +17,20 @@ prompt library built from your own questions.
 
 ### 1.
 
+If the Director of Product asked tomorrow what Release 4.2 actually did to responders, what's the one number you'd put in front of her? 
+
 ### 2.
 
+Based on this number, what can help me to get a hint on how much 4.2 caused and whether fewer callouts got filled 
+
 ### 3.
+
+As th&#x65;**&#x20;ping data and the tickets agree on two patterns, but the reports arrived on different timelines**, what should be the next direction for a better conclusion. And, action steps to investigate further
+
+### 4.
+
+If the evidence implicates both ranking and timeout, how do I test each independently before proposing a rollback.
+
+### 5.
+
+What should be the new number to be communicated with investigation results to move forwrd
